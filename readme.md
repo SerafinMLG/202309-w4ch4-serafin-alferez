@@ -44,6 +44,3 @@ Componente Key: Renderiza el teclado numérico. Recibe la interaciones de tipo b
 Componente Keyboard: LLama al componente de tipo Key y renderiza un listado de tipo ol. Sin interacciones con el usuario.
 
 Componente App: Llama a los componentes arriba descritos en el orden adecuado para visualizar el teléfono. Por el momento no se ha definido lógica de funcionamiento.
-
-
-
