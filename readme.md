@@ -27,3 +27,23 @@ Entrega también un listado de responsabilidades en el README
 - ¿Qué renderiza?
 - ¿Qúe interacciones del usuario tiene?
 - ¿Qué información recibe y desde donde?
+
+##### LISTADO DE RESPONSABILIDADES
+
+COMPONENTE ACTION: RENDERIZA LOS BOTONES DE LLAMAR Y COLGAR
+AUN NO SE HAN DEFINIDO INTERACCIONES CON EL USUARIO PERO DEBERIA LANZAR Y COLGAR LA LLAMADA.
+
+Componente Display: Renderiza el display. No interacciona con el usuario.
+
+Componente Actions: Llama a los componentes Display y Action. No recibe ninguna iteracion con el usuario.
+
+Componente Info: Renderiza el texton Calling durante la llamada. Sin interaciones con el usuario.
+
+Componente Key: Renderiza el teclado numérico. Recibe la interaciones de tipo button con el usuario.
+
+Componente Keyboard: LLama al componente de tipo Key y renderiza un listado de tipo ol. Sin interacciones con el usuario.
+
+Componente App: Llama a los componentes arriba descritos en el orden adecuado para visualizar el teléfono. Por el momento no se ha definido lógica de funcionamiento.
+
+
+
